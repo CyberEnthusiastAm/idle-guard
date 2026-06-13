@@ -199,7 +199,7 @@ This tool can stop real cloud resources. Always test thoroughly in dry-run mode 
 
 ---
 
-Made with ❤️ by IT engineers who hate wasting money on idle VMs.
+Made with ❤️ by IT engineer who hate wasting money on idle VMs.
 
 **Star this repo** if you find it useful! ⭐
 
